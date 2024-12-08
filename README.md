@@ -7,4 +7,5 @@
 
 language python,javascript,R,SQL
 
-メモ　https://chatgpt.com/share/674d5cf3-9c70-8011-8b1f-029678b2f272
+メモ帳
+https://chatgpt.com/share/6755b15a-9224-8011-8759-91ee0a73f567
